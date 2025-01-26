@@ -72,9 +72,3 @@ The program is designed to be user-friendly and includes **input validation** an
 # License
 ## This project is open-source and available under the MIT License.
 
-### **How to Use This in GitHub**
-1. Create a new file in your repository named `README.md`.
-2. Copy and paste the above content into the file.
-3. Commit the changes to your repository.
-
-This will display the formatted content on your GitHub repository's homepage, making it easy for others to understand and use your project. Let me know if you need further assistance! 😊
